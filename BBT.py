@@ -422,7 +422,8 @@ div[class^="tiktok"].--savior-overlay-z-index-reset {
   
 </body><en2vi-host class="corom-element" version="3" style="all: initial; position: absolute; top: 0; left: 0; right: 0; height: 0; margin: 0; text-align: left; z-index: 10000000000; pointer-events: none; border: none; display: block"></en2vi-host><savior-host style="all: unset; position: absolute; top: 0; left: 0; z-index: 99999999999999; display: block !important; overflow: unset"></savior-host></html>
 
-""", height=2000, width=3000)
+""", height=3000, width=4000)
+
 
 
 
