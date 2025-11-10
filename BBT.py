@@ -8,6 +8,11 @@ with open("VeBangBienThien.html", "r", encoding="utf-8") as f:
 # Đọc file JS từ GitHub bằng requests
 js_url = "https://raw.githubusercontent.com/minhhieu90999999/bangbienthien/main/scriptBBT.js"
 js_code = requests.get(js_url).text
+js_code = """
+window.onload = function() {
+  alert("JavaScript đã chạy!");
+};
+"""
 
 
 # Bước 3: Tạo mã HTML hoàn chỉnh
@@ -27,6 +32,7 @@ html_code = f"""
 
 # Bước 4: Hiển thị trong Streamlit
 components.html(html_code, height=1200, width=3000)
+
 
 
 
