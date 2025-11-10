@@ -1,7 +1,7 @@
 
 import streamlit as st
 import streamlit.components.v1 as components
-
+import requests 
 # Bước 1: Đọc nội dung file HTML
 with open("VeBangBienThien.html", "r", encoding="utf-8") as f:
     html_body = f.read()
@@ -27,6 +27,7 @@ html_code = f"""
 
 # Bước 4: Hiển thị trong Streamlit
 components.html(html_code, height=1200, width=3000)
+
 
 
 
