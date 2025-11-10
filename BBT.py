@@ -135,7 +135,7 @@ components.html("""
 }
 </script>
 
-  <script type="module" crossorigin="" src="https://www.dropbox.com/scl/fi/oo3k8kst8s7z8ss2n3t6v/ScriptBBT_101125.js?rlkey=dasz6d62studgvqpbrglan7au&e=1&st=wbftz18p&dl=0"></script>
+  <script type="module" crossorigin="" src="https://bang-bien-thien.vercel.app/assets/index-Dtn_XVXr.js"></script>
 <style>*, ::before, ::after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ; {
   transform: none !important;
 }
@@ -423,6 +423,7 @@ div[class^="tiktok"].--savior-overlay-z-index-reset {
 </body><en2vi-host class="corom-element" version="3" style="all: initial; position: absolute; top: 0; left: 0; right: 0; height: 0; margin: 0; text-align: left; z-index: 10000000000; pointer-events: none; border: none; display: block"></en2vi-host><savior-host style="all: unset; position: absolute; top: 0; left: 0; z-index: 99999999999999; display: block !important; overflow: unset"></savior-host></html>
 
 """, height=1000, width=3000)
+
 
 
 
