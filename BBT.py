@@ -4,7 +4,7 @@ components.html("""
                 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <script src="https://raw.githubusercontent.com/minhhieu90999099/bangbienthien/main/ScriptBBT.js"></script>
+    <script type="module" crossorigin src="https://raw.githubusercontent.com/minhhieu90999099/bangbienthien/main/ScriptBBT.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
@@ -197,3 +197,4 @@ components.html("""
 </html>
 
 """, height=1000, width=3000)
+
