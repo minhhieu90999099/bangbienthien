@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 components.html("""
-        html_code = """
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,10 +27,9 @@ components.html("""
   <h2>Kiểm tra JavaScript trong Streamlit</h2>
 </body>
 </html>
-"""
-
 
 """, height=1000, width=3000)
+
 
 
 
