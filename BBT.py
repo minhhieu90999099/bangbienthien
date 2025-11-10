@@ -135,7 +135,7 @@ components.html("""
   }
 }
 </script>
-  <script type="module" crossorigin src="https://minhnganedu.com/bangbienthien/assets/index-C_tTioXE.js"></script>
+  <script type="module" crossorigin src="/ScriptBBT.js"></script>
 </head>
   <body class="bg-slate-50 text-slate-800">
     <div id="root"></div>
@@ -195,5 +195,6 @@ components.html("""
 </html>
 
 """, height=1000, width=3000)
+
 
 
